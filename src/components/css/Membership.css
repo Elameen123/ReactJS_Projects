@@ -1,0 +1,33 @@
+.memberContainer {
+  width: 95%;
+  padding: 15px 0px 0px 4.5%;
+  height: 120px;
+  float: left;
+  text-align: left;
+}
+
+hr {
+  width: 90%;
+  float: left;
+}
+
+.memberTitle {
+  color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 500;
+  display: block;
+}
+
+.memberInformation {
+  width: 100%;
+  height: 230px;
+  margin-top: 7.5px;
+  float: left;
+}
+
+li {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 10px;
+}

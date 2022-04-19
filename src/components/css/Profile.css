@@ -1,0 +1,35 @@
+.profileContainer {
+  width: 95%;
+  padding: 15px 0px 0px 4.5%;
+  height: 220px;
+  float: left;
+  text-align: left;
+  margin-top: 10px;
+}
+
+hr {
+  width: 95%;
+  float: left;
+}
+
+.profileTitle {
+  color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 500;
+  display: block;
+}
+
+.profileInformation {
+  width: 95%;
+  height: 180px;
+  margin-top: 5px;
+  float: left;
+}
+
+.profileDetail {
+  width: 100%;
+  height: 15px;
+  float: left;
+  margin-bottom: 25px;
+}

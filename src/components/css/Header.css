@@ -1,0 +1,23 @@
+.container {
+  width: 95%;
+  padding: 15px 0px 0px 4.5%;
+  height: 95px;
+  float: left;
+  border: 2px solid rgba(61, 61, 61, 0.938);
+  background-color: rgba(61, 61, 61, 0.938);
+  text-align: left;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.name {
+  color: azure;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.track {
+  color: darkgrey;
+  font-size: 15px;
+  font-family: sans-serif;
+}

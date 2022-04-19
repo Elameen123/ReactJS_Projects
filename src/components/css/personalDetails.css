@@ -1,0 +1,61 @@
+.detailContainer {
+  width: 95%;
+  padding: 15px 0px 0px 4.5%;
+  height: 290px;
+  float: left;
+  text-align: left;
+}
+
+hr {
+  width: 90%;
+  float: left;
+}
+
+.title {
+  color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 500;
+  display: block;
+}
+
+.information {
+  width: 100%;
+  height: 230px;
+  margin-top: 7.5px;
+  float: left;
+}
+
+.label {
+  width: 40%;
+  height: 20px;
+  float: left;
+  color: rgb(32, 212, 212);
+  font-weight: 400;
+}
+
+.detail {
+  width: 40%;
+  height: 25px;
+  float: left;
+  margin-bottom: 25px;
+}
+
+.skillLabel {
+  font-size: large;
+  font-weight: 600;
+  color: red;
+  width: 40%;
+  height: 20px;
+  float: left;
+}
+
+.skillDetail {
+  width: 40%;
+  height: 25px;
+  float: left;
+  margin-bottom: 25px;
+  font-size: large;
+  font-weight: 600;
+  color: red;
+}
